@@ -1,4 +1,8 @@
 # website-for-marketing
-website for the purpose of marketing a product for sale in HTML, Bootstrap and jQuery
+Sitio Web con el propósito de mercadear un producto para la venta en HTML, Bootstrap,Javascript and jQuery
 
-The objective of the project was to build a website that has the purpose of marketing a product for sale. In each of the pages of the website you must have your menu so that the user can have the option of accessing any of the pages of the website.
+Desarrollé una página web desde cero usando; HTML, CSS y JavaScript y Bootstrap y Jquery.
+El objetivo del proyecto era construir un sitio web que tenga como propósito mercadear un producto para la venta. 
+En cada una de las páginas del sitio web deberá tener su menú de manera que el usuario pueda tener la alternativa
+de acceder a cualquiera de las páginas del sitio web.
+
