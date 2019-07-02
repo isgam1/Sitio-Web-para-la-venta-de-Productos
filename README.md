@@ -5,4 +5,3 @@ Desarrollé una página web desde cero usando; HTML, CSS y JavaScript y Bootstra
 El objetivo del proyecto era construir un sitio web que tenga como propósito mercadear un producto para la venta. 
 En cada una de las páginas del sitio web deberá tener su menú de manera que el usuario pueda tener la alternativa
 de acceder a cualquiera de las páginas del sitio web.
-
