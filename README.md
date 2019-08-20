@@ -1,4 +1,4 @@
-# Sitio Web para la venta de Productos
+# Sitio Web para mercadear un Producto
 Sitio Web con el propósito de mercadear un producto para la venta en HTML, Bootstrap,Javascript and jQuery
 
 Desarrollé una página web desde cero usando; HTML, CSS y JavaScript y Bootstrap y Jquery.
