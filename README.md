@@ -22,7 +22,8 @@ Es el directorio donde tendremos los archivos del proyecto en fase de desarrollo
      </ul>
   <li> 📁 fonts: Contendrá toda la tipografía del sitio web</li>
   <li> 📁 img: Contendá solo las imagenes de <strong>Slider</strong> y las de <strong>bg</strong></li>
-  <li> 📁js: Contendrá los archivos js del sitio web </li>
+  <li> 📁js: Contendrá los archivos js del sitio web</li>
 </ul>
 
+📁img
 
