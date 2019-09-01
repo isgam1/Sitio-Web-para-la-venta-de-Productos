@@ -27,3 +27,11 @@ Es el directorio donde tendremos los archivos del proyecto en fase de desarrollo
 
 📁img
 
+El directorio contendra solo las imagenes de pagina de productos.
+
+
+
+Imagen del sitio web
+==========
+
+![](https://github.com/isgam1/Sitio-Web-para-mercadear-un-Producto/blob/master/readme/HomeScreenshot.png)
