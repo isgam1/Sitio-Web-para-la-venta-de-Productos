@@ -1,10 +1,17 @@
 # Sitio Web para mercadear un Producto
 Sitio Web con el propósito de mercadear un producto para la venta en HTML, Bootstrap,Javascript and jQuery
 
-Desarrollé una página web desde cero usando; HTML, CSS y JavaScript y Bootstrap y Jquery.
+Desarrollé una página web desde cero usando; HTML, CSS, JavaScript, Bootstrap y Jquery.
 El objetivo del proyecto era construir un sitio web que tenga como propósito mercadear un producto para la venta. 
 En cada una de las páginas del sitio web deberá tener su menú de manera que el usuario pueda tener la alternativa
 de acceder a cualquiera de las páginas del sitio web.
+
+Para comenzar:
+==========
+<ul>
+  <li>Cree un fork de este repositorio y clonelo en local (o descargue este repositorio por zip).</li>
+  <li>Para poder usar o entender este sitio web debes saber como requisito: <code>HTML, CSS, JavaScript, Bootstrap y Jquery</code></li>
+</ul>
 
 Estructura de la Página
 ==========
