@@ -34,7 +34,7 @@ Es el directorio donde tendremos los archivos del proyecto en fase de desarrollo
 
 📁img
 
-El directorio contendra solo las imagenes de pagina de productos.
+El directorio contendra solo las imagenes de la pagina de productos.
 
 
 
