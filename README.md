@@ -37,14 +37,13 @@ Es el directorio donde tendremos los archivos del proyecto en fase de desarrollo
 El directorio contendra solo las imagenes de la pagina de productos.
 
 
+Link del sitio web
+==========
+
+<a href="https://isgam1.github.io/Sitio-Web-para-mercadear-un-Producto/" target="_blank">DemoServicio</a> 
+
 
 Imagen del sitio web
 ==========
 
 ![](https://github.com/isgam1/Sitio-Web-para-mercadear-un-Producto/blob/master/readme/HomeScreenshot.png)
-
-
-Link del sitio web
-==========
-
-a href="https://isgam1.github.io/Sitio-Web-para-mercadear-un-Producto/" target="_blank">DemoServicio</a> 
